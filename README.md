@@ -294,15 +294,7 @@ If you use this code in your research, please cite:
 ```
 RH - Short-Window Certificate with Explicit Constants
 miruka, August 2025
-GitHub: https://github.com/specator-tlca/RH
+GitHub: https://github.com/specator-tlca/RN
 ```
 
-## License
-
-[To be specified]
-
-## Related Links
-
-- [Research paper](link-to-paper)
-- [arXiv preprint](link-to-arxiv)
 - [Documentation](link-to-docs)
