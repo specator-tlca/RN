@@ -6,7 +6,7 @@ This repository contains the computational tools for verifying the **Riemann Hyp
 
 **Key components:**
 - **C_right constant**: Computing -ζ'(2)/ζ(2) via convergent prime series
-- **C_thin* measurement**: Thin-strip approximation constants with explicit bounds
+- **C_thin measurement**: Thin-strip approximation constants with explicit bounds
 - **T0 threshold**: Critical threshold for window certification  
 - **Horizontal validation**: Phase difference bounds on horizontal segments
 
