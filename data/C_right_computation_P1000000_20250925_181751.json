@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-09-25T18:17:51.000002",
+  "parameters": {
+    "P": 1000000,
+    "method": "sieve",
+    "include_prime_powers": false
+  },
+  "computation": {
+    "partial_sum": 0.569959993064325,
+    "tail_bound": 1.9754014077285694e-05,
+    "lower_bound": 0.569959993064325,
+    "upper_bound": 0.5699797470784023,
+    "interval_width": 1.9754014077277837e-05
+  },
+  "theoretical": {
+    "exact_value": "sum_{n>=2} Lambda(n) / n^2",
+    "numerical_approximation": 0.5699618136104756
+  }
+}

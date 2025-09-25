@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-25T18:17:51.330046",
+  "computation": {
+    "parameters": {
+      "c": 0.35,
+      "kappa": 0.8,
+      "R0": 0.1,
+      "C_right": 0.569961,
+      "C_thin": 21.170731707317074,
+      "method": "current",
+      "sub_weyl_exp": 0.16463414634146342
+    },
+    "threshold": {
+      "log_T0": 3.9007547468302923,
+      "T0": 49.43974952181607,
+      "T0_scientific": "4.944e+01"
+    },
+    "at_threshold": {
+      "h": 0.08972622549120933,
+      "delta": 0.2050885154084785,
+      "bound": 1.5707963267948966,
+      "bound_over_pi": 0.5
+    }
+  },
+  "command_line_args": {
+    "c": 0.35,
+    "kappa": 0.8,
+    "R0": 0.1,
+    "C_right": 0.569961,
+    "C_thin": null,
+    "method": "current",
+    "custom_exp": 0.15,
+    "optimize": false,
+    "compare": false,
+    "min_margin": 0.25
+  }
+}

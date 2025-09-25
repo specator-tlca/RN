@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-25T18:17:52.021626",
+  "parameters": {
+    "T": 1000000000000.0,
+    "c": 0.35,
+    "kappa": 0.8,
+    "samples": 100,
+    "method": "envelope",
+    "multiple": false,
+    "plot": false
+  },
+  "results": {
+    "T": 1000000000000.0,
+    "h": 0.012666922388844844,
+    "delta": 0.028952965460216792,
+    "method": "envelope",
+    "envelope": {
+      "max_derivative": 27.63102111592956,
+      "envelope_bound": 0.3500000000000128,
+      "C_horiz": 27631021115929.56,
+      "refined_bound": 0.35000000000001275
+    }
+  },
+  "summary": {
+    "method": "envelope",
+    "conclusion": "Horizontal bounds verified"
+  }
+}
