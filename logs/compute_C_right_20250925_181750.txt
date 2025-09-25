@@ -1,0 +1,27 @@
+Script: compute_C_right.py
+Arguments: --P 1000000
+Started: 2025-09-25 18:17:50.795986
+============================================================
+
+COMPUTING C_right = -zeta'(2)/zeta(2)
+============================================================
+
+Main computation with P = 1000000
+------------------------------------------------------------
+Partial sum S(P) = 0.569959993
+Tail bound       = 1.975401408e-05
+
+C_right in [0.569959993, 0.569979747]
+Interval width   = 1.975401408e-05
+
+[OK] Theoretical value 0.569961813610 is within bounds
+
+Detailed results saved to: data/C_right_computation_P1000000_20250925_181751.json
+
+SUMMARY:
+  For RH verification, use C_right ~= 0.569970
+  Uncertainty: +/-9.88e-06
+
+============================================================
+Finished: 2025-09-25 18:17:51.009002
+Return code: 0

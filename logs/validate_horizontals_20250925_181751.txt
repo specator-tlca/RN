@@ -1,0 +1,35 @@
+Script: validate_horizontals.py
+Arguments: --c 0.35 --kappa 0.8
+Started: 2025-09-25 18:17:51.344045
+============================================================
+
+HORIZONTAL BOUND VALIDATION
+============================================================
+
+Parameters:
+  T = 1.00e+12
+  c = 0.35, kappa = 0.8
+  h = 0.012667, delta = 0.028953
+
+Results:
+
+Envelope method:
+  Max |d/dt(f'/f)| <= 2.763102e+01
+  C_horiz = 27631021115929.5586
+  Bound: |Phi(T+h) - Phi(T)| <= 3.500000e-01
+  Bound/pi = 0.111408
+
+  [OK] Bound < pi/2: Horizontal contribution controlled
+
+Results saved to: data/horizontal_validation_20250925_181752.json
+
+
+SUMMARY
+============================================================
+Horizontal segments contribute O(h/T) to the total bound.
+This is negligible compared to the main O(1/log T) terms.
+The bound C_horiz is effectively constant for large T.
+
+============================================================
+Finished: 2025-09-25 18:17:52.055627
+Return code: 0

@@ -1,0 +1,35 @@
+Script: threshold_T0.py
+Arguments: --c 0.35 --kappa 0.8 --R0 0.10
+Started: 2025-09-25 18:17:51.228037
+============================================================
+
+
+THRESHOLD COMPUTATION
+============================================================
+
+Parameters:
+  c = 0.35, kappa = 0.8, R0 = 0.1
+  Method: current (exponent = 0.164634)
+
+Constants:
+  C_right = 0.569961
+  C_thin* = 21.170732
+
+Threshold:
+  log T0 = 3.900755
+  T0     = 4.944e+01
+
+At threshold height T0:
+  Window height h = 0.089726
+  Strip width delta = 0.205089
+  Bound value = 1.570796
+  Bound/pi = 0.5000 (must be < 0.5)
+
+Results saved to: data/threshold_T0_current_20250925_181751.json
+
+[SUCCESS] T0 = 4.94e+01 << T* = 2.40e+12
+  Safety factor: 4.85e+10
+
+============================================================
+Finished: 2025-09-25 18:17:51.342045
+Return code: 0

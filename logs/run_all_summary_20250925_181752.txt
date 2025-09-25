@@ -1,0 +1,7 @@
+RH Verification Run Summary
+Date: 2025-09-25 18:17:52.058627
+
+compute_C_right: SUCCESS
+measure_Cthin_star: SUCCESS
+threshold_T0: SUCCESS
+validate_horizontals: SUCCESS

@@ -1,0 +1,37 @@
+Script: measure_Cthin_star.py
+Arguments: --c 0.35 --kappa 0.8 --R0 0.10
+Started: 2025-09-25 18:17:51.010001
+============================================================
+
+
+============================================================
+THIN-STRIP MEASUREMENT - CURRENT method
+============================================================
+
+Parameters:
+  T = 1.00e+12, R0 = 0.1
+  c = 0.35, kappa = 0.8
+  h = 0.012667, delta = 0.028953
+
+Constants:
+  Sub-Weyl exponent = 0.164634
+  alpha_star(R0) = 0.264634
+  C_thin*(R0) = 21.1707
+
+Measurements:
+  Average |g_R0| estimate = 1.189876e-01 +/- 2.117073e-02
+  Bound RHS = 2.145344e-01
+  Margin = 9.554683e-02 (44.5%)
+
+  Status: OK (margin > 20%)
+
+Threshold:
+  log T0 = 3.900755
+  T0 = 4.944e+01
+
+Detailed results saved to: data/C_thin_measurement_current_R0_0.100_20250925_181751.json
+Summary saved to: data/C_thin_measurement_current_R0_0.100_20250925_181751.csv
+
+============================================================
+Finished: 2025-09-25 18:17:51.227038
+Return code: 0
