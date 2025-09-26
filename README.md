@@ -301,4 +301,4 @@ miruka, August 2025
 GitHub: https://github.com/specator-tlca/RN
 ```
 
-- [Documentation](link-to-docs)
+- [Documentation](https://zenodo.org/records/17202483)
