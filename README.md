@@ -5,8 +5,7 @@
 This repository contains the computational tools for verifying the **Riemann Hypothesis Short-Window Certificate with Explicit Constants**. The code implements all numerical computations from the research paper, providing reproducible verification of key constants and bounds.
 
 ## Main document located at
-"Riemann zeta – short-window certificate with explicit constants" miruka 2025
-https://zenodo.org/records/17202483
+"[Riemann zeta – short-window certificate with explicit constants](https://zenodo.org/records/17202483)" miruka 2025
 
 **Key components:**
 - **C_right constant**: Computing -ζ'(2)/ζ(2) via convergent prime series
